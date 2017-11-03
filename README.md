@@ -5,6 +5,11 @@ fine line between Erlang `app.config`s and a sysctl-like syntax.
 The name is a pun on the pronunciation of 'sysctl' and jokes are
 better explained.
 
+## plz note
+
+This was forked to patch a few smol things to get it running on OTP 20.
+May / not work with upstream. 
+
 ## Riak Disclaimer
 
 While this readme and test suite is Riak-heavy, the fact is that this
